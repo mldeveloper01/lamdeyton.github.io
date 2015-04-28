@@ -3,10 +3,10 @@
   <channel>
     <title>lamdeyton</title>
     <description>My Blog For Sharing with people around the world!</description>
-    <link>http://lamdeyton.github.io/</link>
-    <atom:link href="http://lamdeyton.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Apr 2015 17:34:47 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2015 17:34:47 +0800</lastBuildDate>
+    <link>/lamdeyton.github.io/</link>
+    <atom:link href="/lamdeyton.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 28 Apr 2015 18:51:08 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2015 18:51:08 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
   </channel>
